@@ -1,0 +1,12 @@
+{
+  "name": "simpleapp",
+  "displayName": "simpleapp",
+  "expo": {
+    "name": "simpleapp",
+    "slug": "simpleapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
